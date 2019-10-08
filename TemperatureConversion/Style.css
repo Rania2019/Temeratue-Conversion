@@ -1,0 +1,83 @@
+﻿body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 3px;
+    background-color: lavender;
+    border: 2px solid;
+}
+
+h1 {
+    font-size: 220%;
+    padding: 0;
+    margin-top: 1em;
+    color: mediumblue;
+}
+
+td.column1 {
+    width: 633px;
+}
+
+td.coulmn2 {
+    width: 500px;
+}
+
+td.column3 {
+    width: 100px;
+}
+
+
+
+td {
+    width: 200px;
+}
+
+.buttonconvert {
+    margin-left: 1px;
+    margin-right: 5px;
+    margin-top: 100px;
+    width: 140px;
+    height: 36px;
+    font-size: 90%;
+}
+.buttonclear {
+    margin-right: 0px;
+    margin-top: 100px;
+    width: 140px;
+    height: 36px;
+    font-size: 90%;
+}
+
+.validator {
+    font-size: 95%;
+    color: red;
+    /*margin-left: 0em;*/
+    width: 450px;
+}
+.labelfrom {
+    margin-left: 4em;
+}
+.labelto {
+    margin-left: 6.8em;
+}
+#LblOutputTemp {
+    margin-top: 50px;
+}
+#ddlFrom {
+    margin-left: 3em;
+    margin-bottom: 100px;
+}
+#ddlTo {
+    margin-left: 5em;
+    margin-bottom: 100px;
+}
+#Image1 {
+    width: 220px;
+}
+.text {
+    width: 202px;
+    margin-left: 0em;
+}
+
+
